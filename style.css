@@ -36,9 +36,10 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 400px;
+  width: 600px;
   z-index: 2;
   color: #fff;
+  font-size: 50px;
 }
 .count {
   flex: 2;
@@ -48,7 +49,7 @@ body {
 }
 .copy {
   flex: 6;
-  font-size: 30px;
+  font-size: 45px;
   text-transform: uppercase;
   line-height: 1;
 }
