@@ -1,0 +1,10 @@
+{
+  "zenMode.hideActivityBar": true,
+  "zenMode.fullScreen": true,
+  "zenMode.centerLayout": true,
+  "zenMode.hideLineNumbers": true,
+  "zenMode.hideStatusBar": true,
+  "accessibility.accessibleView.closeOnKeyPress": true,
+  "accessibility.underlineLinks": false,
+  "accessibility.hideAccessibleView": false
+}
