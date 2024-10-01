@@ -107,6 +107,7 @@ nav > div {
   display: flex;
   justify-content: flex-end;
   gap: 5em;
+  padding-left:1rem;
 }
 .header {
   display: flex;
